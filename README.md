@@ -1,6 +1,6 @@
 # Yolo11n_Fish_Detection
 
-**Note : ** File is large to display on GitHub if you want to see my practice work. *Please download raw file*
+**Note :** File is large to display on GitHub if you want to see my practice work. *Please download raw file*
 
 ### **Implement**
 This Practice is train a YOLO11n model on a custom COCO fish dataset on Colab Notebook.
